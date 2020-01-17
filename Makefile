@@ -1,6 +1,6 @@
 Q=@
 
-BUILDROOT := $(CURDIR)/../buildroot
+BUILDROOT := $(CURDIR)/buildroot
 
 # Usage
 help:
